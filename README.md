@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <a href="# Content Management Tool"></a>
   Content Management Tool
@@ -16,6 +15,6 @@ Content Management Tool is a web-based content management system developed as Ta
 <li>JavaScript</li>
 
 ## `Installation`
-<li>Clone the repository: git clone https://github.com/RamanjiChinta/content-management-tool/edit/main/README.md</li>
+<li>Clone the repository: git clone https://github.com/RamanjiChinta/content-management-tool</li>
 <li>Open the project folder in your preferred code editor.</li>
 <li>Open the index.html file in a web browser.</li>
