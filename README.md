@@ -18,3 +18,4 @@ Content Management Tool is a web-based content management system developed as Ta
 <li>Clone the repository: git clone https://github.com/RamanjiChinta/content-management-tool</li>
 <li>Open the project folder in your preferred code editor.</li>
 <li>Open the index.html file in a web browser.</li>
+<li>poen link:http://localhost:8888/notebooks/diabetes.ipynb</li>
